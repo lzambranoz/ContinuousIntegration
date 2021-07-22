@@ -1,0 +1,5 @@
+"Package","Class","Test","3"
+"IntegracionJenkins","RelationalOperatorTest","isGreaterTest1","PASSED"
+"IntegracionJenkins","RelationalOperatorTest","isGreaterTest2","PASSED"
+"IntegracionJenkins","RelationalOperatorTest","isLessTest1","PASSED"
+"IntegracionJenkins","RelationalOperatorTest","isLessTest2","PASSED"
