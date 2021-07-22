@@ -15,6 +15,7 @@ public class Main {
         final int min_height = 5;
         final int min_width = 2;
         
+        
         //Dimension of the object
         final int object_height=12;
         final int object_width=10;
